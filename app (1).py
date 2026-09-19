@@ -9,7 +9,7 @@ from docx import Document
 
 
 APP_TITLE = "Resume ATS Analyzer"
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.6-flash"
 
 
 # -----------------------------
